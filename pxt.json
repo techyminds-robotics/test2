@@ -1,7 +1,7 @@
 {
-    "name": "SuperBitV2...TM1",
-    "version": "1.0.0",
-    "description": "Extension for YahBoom SuperBitV2...TM2",
+    "name": "SuperBitV21",
+    "version": "1.0.1",
+    "description": "Extension for YahBoom SuperBitV22",
     "license": "MIT",
     "dependencies": {
         "core": "*",
