@@ -2,11 +2,11 @@
 Copyright (C): 2010-2019, Shenzhen Yahboom Tech
 modified from liusen
 load dependency
-"SuperBitV2": "file:../pxt-SuperBitV2"
+"SuperBitV2.1": "file:../pxt-SuperBitV2.1"
 */
 
 //% color="#ECA40D" weight=30 icon="\uf135"
-namespace SuperBitV2 {
+namespace SuperBitV2.1 {
 
     const PCA9685_ADD = 0x40
     const MODE1 = 0x00
