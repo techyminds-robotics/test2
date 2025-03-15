@@ -1,6 +1,6 @@
 # SuperBit
 
-Extension for Yahboom SuperBitV2
+Extension for YB SuperBitV2
 
 ## License
 
